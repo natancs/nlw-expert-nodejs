@@ -1,0 +1,15 @@
+{
+  "statusCode":500,
+  "error":"Internal Server Error",
+  "message":"[
+    {
+      "code": "invalid_type",
+      "expected": "string",
+      "received": "undefined",
+      "path": [
+        "pollOptionId"
+      ],
+      "message": "Required"
+    }
+  ]"
+}
