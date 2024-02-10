@@ -85,7 +85,7 @@ npm run dev
 
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Festify](https://fastify.dev/) - Server Framework
-- [PostgreSLQ](https://www.postgresql.org/) - Database
+- [PostgreSQL](https://www.postgresql.org/) - Database
 - [Redis](https://redis.io/) - Database in memory
 - [Prisma](https://www.prisma.io/) - ORM
 - [Typescript](https://www.typescriptlang.org/) - Typescript
