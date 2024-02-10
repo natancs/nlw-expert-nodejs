@@ -50,6 +50,12 @@ To install dependencies
 npm ci
 ```
 
+Up Docker images of PostgreSQL and Redis
+
+```bash
+docker compose up -d
+```
+
 Run project in development
 
 ```bash
